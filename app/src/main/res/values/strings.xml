@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EcoTrack</string>
+    <string name="app_description">Sistema de Gestión de Residuos Urbanos</string>
+    <string name="no_hay_zonas_criticas">No hay zonas críticas en este momento ✅</string>
+</resources>
